@@ -8,6 +8,10 @@ Install jsonlint with npm to use the command line interface:
 
     npm install jsonlint -g
 
+Install jsonlint with brew to use the command line interface:
+
+    brew install jsonlint
+
 Validate a file like so:
 
     jsonlint myfile.json
